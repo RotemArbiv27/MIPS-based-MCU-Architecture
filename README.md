@@ -1,5 +1,9 @@
 # MIPS based MCU Architecture 
 
+## Contributors
+- [Rotem Arbiv](https://github.com/RotemArbiv27)
+- [Hdaya Cohen](https://github.com/HODAYA5706)
+
 ## Project Overview 
 This project presents the implementation of a standard single-cycle MIPS CPU ,
 designed and tested for the Altera DE10 FPGA board.
